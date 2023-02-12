@@ -1,0 +1,115 @@
+#layout{
+    margin:0 auto;
+    padding: 0 auto;
+    width: 1440px;
+    height: 1024px;
+    background-color: #E5E5E5;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+.circle{  
+width: 220px;
+height: 220px;
+border: 3px solid #BB99DD;
+border-radius: 50%;
+margin-bottom: 30px;
+margin-left:5%;
+}
+
+.foto{
+    width: 16%;
+    background: url(.jpg); 
+    border-radius: 50%;
+    position: absolute;
+    margin-left:-7.89%;
+    margin-top: -18.89%;
+  
+}
+
+    
+.insta {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    color: #BB99DD;
+    text-decoration-line: none;
+    margin-bottom: 20px;
+    margin-left:-5%;
+}
+
+
+a{
+    text-decoration-line: none;
+}
+
+.link1{  
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;  
+    text-transform: uppercase;
+    padding: 15px;
+
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+    width: 250px;
+    margin-bottom:20px;
+    color: #BB99DD;   
+}
+
+.link2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: uppercase;
+    padding: 15px;
+
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+    width: 250px;
+    margin-bottom:20px;
+    color: #BB99DD;   
+}
+
+.link3 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: uppercase;
+    padding: 15px;
+
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+    width: 250px;
+    margin-bottom:20px;
+    color: #BB99DD;    
+
+}
+
+.link4 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: uppercase;
+    padding: 15px;
+
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+    width: 250px;
+    margin-bottom:40px;
+    color: #BB99DD;
+}
